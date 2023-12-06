@@ -6,17 +6,17 @@
 
 @font-face {
   font-family: vaziri;
-  src: url(/Font/Vazir-Medium-FD-WOL.ttf) format(ttf),
-    url(/Font/Vazir-Medium-FD-WOL.woff) format(woff),
-    url(/Font/Vazir-Medium-FD-WOL.woff2) format(woff2);
+  src: url(Vazir-Medium-FD-WOL.ttf) format(ttf),
+    url(Vazir-Medium-FD-WOL.woff) format(woff),
+    url(Vazir-Medium-FD-WOL.woff2) format(woff2);
 }
 @font-face {
   font-family: ehsan;
-  src: url(/Font/AnkhSanctuary-nROx4.woff) format(woff);
+  src: url(AnkhSanctuary-nROx4.woff) format(woff);
 }
 @font-face {
   font-family: parsa;
-  src: url(/Font/ProductSans-Medium.ttf);
+  src: url(ProductSans-Medium.ttf) format(ttf);
 }
 
 body {
@@ -27,7 +27,7 @@ body {
       rgba(2, 0, 36, 0.49) 100%,
       rgba(0, 212, 255, 1) 100%
     ),
-    url(/imag/photo_5996654380176227905_y.jpg) center/cover fixed no-repeat;
+    url(photo_5996654380176227905_y.jpg) center/cover fixed no-repeat;
   width: 100%;
   text-align: center;
 }
